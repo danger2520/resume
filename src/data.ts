@@ -18,7 +18,7 @@ export const technologies = [
   {
     section: "Languages:",
     details:
-      "JavaScript, Node.js, Python, C#, TypeScript, SQL (proficient).",
+      "JavaScript, Node.js, Python, C#, TypeScript, SQL.",
   },
   {
     section: "Frameworks:",
@@ -28,7 +28,7 @@ export const technologies = [
   {
     section: "Tools:",
     details:
-      "Git, Docker, Zsh, GitHub, Kubernetes (proficient).",
+      "Git, Docker, Zsh, GitHub, Kubernetes.",
   },
   {
     section: "Other:",
