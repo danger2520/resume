@@ -58,6 +58,17 @@ export const workExperiences = [
       "Develop a request loan application with a decision tree and request new/old car loan.",
       "Contribute defi project (defillama, defilama-sdk)"
     ],
+  },
+  {
+    position: "Freelance Developer",
+    company: "",
+    url: "",
+    years: ["2018", "2019"],
+    details: [
+      "Develop chat bot for facebook page with google dialogflow.",
+      "Develop web application for collect and redeem point.",
+      "Develop web application tracking product with pug nodejs and mongodb."
+    ],
   }
 ]
 
@@ -82,5 +93,7 @@ export const projects = [
 
 export const interests = [
   "Music : Rock, Japanese",
-  "Art: Pixel Art, Pixel Art for game development"
+  "Art: Pixel Art, Pixel Art for game development",
+  "Working remotely",
+  "Yakiniku Like, MOMO Paradise ( Shabu-Shabu)"
 ]
