@@ -82,7 +82,7 @@ export const projects = [
   {
     name: "Pomodoro",
     details: "Pomodoro",
-    url: "https://pomodoro-dtmkeng.vercel.app/"
+    url: "https://pomodoro-five-alpha.vercel.app/"
   },
   {
     name: "Otoh",
